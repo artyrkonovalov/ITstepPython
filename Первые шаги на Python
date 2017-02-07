@@ -1,5 +1,6 @@
 '''Демонстрация первых шагов программирования
- Pythom'''
+Pythom'''
+print("Привет мир!!!")
 name = input("What is your name?\n")
 print("Hi, ",name,".")
 
