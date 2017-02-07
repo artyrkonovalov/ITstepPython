@@ -1,0 +1,4 @@
+'''Демонстрация первых шагов программирования
+ Pythom'''
+print("10")
+input("Press Enter for continue...")
