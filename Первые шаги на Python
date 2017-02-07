@@ -1,4 +1,6 @@
 '''Демонстрация первых шагов программирования
  Pythom'''
-name = input("What is your name?")
+name = input("What is your name?\n")
 print("Hi, ",name,".")
+
+input("Press Enter to continue...")
