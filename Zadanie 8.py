@@ -19,5 +19,6 @@ thierdNumber = int(input('Введите 3-е число: '))
 summaPervogoITretego = firstNumber + thierdNumber
 proizvedenieSummi = summaPervogoITretego * secondNumber
 sredneeArefmeticheskoe = (firstNumber + secondNumber + thierdNumber) / 3
-print('Сумма 1-го и 3-го числа', summaPervogoITretego, '\nПрпоизведение 2-го числа с суммой 1-го и третьего', proizvedenieSummi, '\nСреднее арифметическое', sredneeArefmeticheskoe)
+print('Сумма 1-го и 3-го числа', summaPervogoITretego, '\nПрпоизведение 2-го числа с суммой 1-го и третьего', proizvedenieSummi, 
+'\nСреднее арифметическое', sredneeArefmeticheskoe)
 input('Нажми Ввод для продолжения...')
